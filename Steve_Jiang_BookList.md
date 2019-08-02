@@ -33,3 +33,4 @@
 | 机器学习 | <https://book.douban.com/subject/26708119/> |
 | 机器学习实战 | <https://book.douban.com/subject/24703171/> |
 | 深度学习 | <https://book.douban.com/subject/27087503/> |
+| 凸优化理论 | <https://book.douban.com/subject/21249088/> |
